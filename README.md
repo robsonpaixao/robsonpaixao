@@ -2,6 +2,7 @@
 A Software Engineer from São Paulo, Brazil <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-paixao/)](https://www.linkedin.com/in/robson-paixao/)
+[![twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jpxrob)](https://twitter.com/jpxrob)
 
 ---
 
