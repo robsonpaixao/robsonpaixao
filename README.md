@@ -32,3 +32,5 @@ A Software Engineer from São Paulo, Brazil <br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31buxtjqedw6olytib4cst555mfu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
