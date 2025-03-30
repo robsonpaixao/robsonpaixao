@@ -1,7 +1,7 @@
 # Hi, I'm **Robson Paixão** :coffee:
 A Software Engineer from São Paulo, Brazil <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-paixao/)](https://www.linkedin.com/in/robson-paixao/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=flat&logoColor=fff&link=https://www.linkedin.com/in/robson-paixao/)](https://www.linkedin.com/in/robson-paixao/)
 
 ---
 
